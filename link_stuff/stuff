@@ -1,0 +1,251 @@
+Many useful reference:
+
+Answer for interview
+    https://jsehelper.blogspot.com/p/welcome.html
+    http://javastudy.ru/reference/interview/
+    http://www.quizful.net/interview/java
+
+Martin Fowler
+        https://martinfowler.com/articles/injection.html
+        https://martinfowler.com/articles/mocksArentStubs.html
+        https://martinfowler.com/articles/continuousIntegration.html
+        https://martinfowler.com/articles/designDead.html
+        https://martinfowler.com/articles/newMethodology.html
+        https://martinfowler.com/bliki/PrinciplesOfXP.html
+
+Tutorials
+      java
+      https://www.tutorialspoint.com/java8/index.htm
+      jdbc
+      https://www.tutorialspoint.com/jdbc/index.htm
+      servlet
+      https://www.tutorialspoint.com/servlets/index.htm
+      spring
+      https://www.tutorialspoint.com/spring/index.htm
+      hibernate
+      https://www.tutorialspoint.com/hibernate/index.htm
+      jakson
+      https://www.tutorialspoint.com/jackson/index.htm
+Database
+      mongo db
+      https://www.tutorialspoint.com/mongodb/index.htm
+      postger sql
+      https://www.tutorialspoint.com/postgresql/index.htm
+      Neo4j
+      https://www.tutorialspoint.com/neo4j/index.htm
+      redis
+      https://www.tutorialspoint.com/redis/index.htm
+      mysql
+      https://www.tutorialspoint.com/mysql/index.htm
+      sql
+      https://www.tutorialspoint.com/sql/index.htm
+
+Big Data and Analytics
+      apache sun tutorial
+      https://www.tutorialspoint.com/apache_solr/index.htm
+      zookeeper
+      https://www.tutorialspoint.com/zookeeper/index.htm
+      hadoop
+      https://www.tutorialspoint.com/hadoop/index.htm
+
+Web development
+      html
+      https://www.tutorialspoint.com/html/index.htm
+      css
+      https://www.tutorialspoint.com/css/index.htm
+      java script
+      https://www.tutorialspoint.com/javascript/index.htm
+      angular
+      https://www.tutorialspoint.com/angular4/index.htm
+
+
+
+Java core
+    Collections
+        https://habr.com/post/237043/
+        http://developer.alexanderklimov.ru/android/java/set.php
+        http://developer.alexanderklimov.ru/android/java/arraylist.php
+
+    Stream API и лямбда выражения
+        https://vertex-academy.com/tutorials/ru/java-8-uchebnik/
+
+    Многопоточность
+        https://o7planning.org/ru/10269/java-multithreading-programming-tutorial
+        https://www.youtube.com/watch?v=KPCCPMLK1Zc
+
+    Загрузчики классов, Модель памяти
+        https://www.youtube.com/watch?v=iB2N8aqwtxc
+
+  Для расширения кругозора
+    Размер Java объектов
+        https://habr.com/post/134102/
+    Мягкие ссылки на страже доступной памяти или как экономить память правильно
+        https://habr.com/post/169883/
+    Java enum
+        https://howtodoinjava.com/java/enum/guide-for-understanding-enum-in-java/
+    Побитовые операторы
+        https://learn.javascript.ru/bitwise-operators
+    Garbage Collection наглядно
+        https://habr.com/post/112676/
+    Владимир Иванов — G1 Garbage Collector
+        https://www.youtube.com/watch?v=iGRfyhE02lA&t=2s
+    Дюк, вынеси мусор! — Часть 1
+        https://habr.com/post/269621/
+
+Build systems
+    Apache Ant
+        Apache Ant – быстрый старт
+        https://habr.com/post/323204/
+        https://www.tutorialspoint.com/ant/
+    Apache Maven
+        https://habr.com/post/421323/
+        https://habr.com/post/343550/
+        https://habr.com/post/344480/
+    Gradle
+    Евгений Борисов — Power of Gradle
+    https://www.youtube.com/watch?v=NZJTYPLb0iE&t=1s
+
+Spring
+    Spring под капотом
+        https://medium.com/@kirill.sereda/spring-под-капотом-9d92f2bf1a04
+    Spring потрошитель:
+        https://www.youtube.com/watch?v=BmBr5diz8WA
+        https://www.youtube.com/watch?v=cou_qomYLNU&t
+    Spring puzzlers
+        https://www.youtube.com/watch?v=U8MtGYa04v8
+    Spring Гоубоко и не очень
+        https://www.youtube.com/watch?v=nGfeSo52_8A&t
+    Spring Битва конфигураций
+        https://www.youtube.com/watch?v=QS-_4k7o7A4
+    Spring для домохозяек. Inversion of Control на практике.
+        http://nikcode.blogspot.com/2011/09/spring-inversion-of-control.html
+    Изоляция и распространение транзакций в Spring
+        https://easyjava.ru/spring/spring-data-access/izolyaciya-i-rasprostranenie-tranzakcij-v-spring/
+    Как на самом деле работает @Transactional Spring?
+        http://akorsa.ru/2016/08/kak-na-samom-dele-rabotaet-transactional-spring/
+    Транзакции в Spring Framework
+        https://medium.com/@kirill.sereda/транзакции-в-spring-framework-a7ec509df6d2
+    Spring AOP. Маленький вопросик с собеседования
+        https://habr.com/post/347752/
+    Аспектно-ориентированное программирование в Spring Framework
+        http://www.quizful.net/post/aspect-oriented-programming-in-spring
+    The Basics of Spring Framework
+        https://www.youtube.com/watch?v=aNcTL9e7luM&index=11&list=PL6jg6AGdCNaWF-sUH2QDudBRXo54zuN1t
+    Spring MVC – основные понятия, архитектура.
+        http://javastudy.ru/spring-mvc/spring-mvc-basic/
+    Евгений Борисов — Spring Data? Да, та!
+        https://www.youtube.com/watch?v=nwM7A4TwU3M
+    Путь запроса по внутренностям Spring Security
+        https://habr.com/post/346628/
+    JUGLviv meetup: Spring Boot the Ripper
+        https://www.youtube.com/watch?v=8xa0RWMwAOE&t
+    Что такое Spring Cloud и как его готовить – интервью с Евгением Борисовым и Кириллом Толкачёвым
+        https://habr.com/company/jugru/blog/341026/
+
+Database
+    Общие вопросы по базам данных
+        https://www.youtube.com/watch?v=dFASbaIG-UU
+    JDBC API в Java - обзор и туториал
+        http://www.javenue.info/post/java-jdbc-api
+    JPA & Hibernate
+       Шпаргалка Java программиста 1: JPA и Hibernate в вопросах и ответах
+         https://habr.com/post/265061/
+       Вячеслав Круглов — Введение в Hibernate: что, зачем, и где стандартные ловушки
+         https://www.youtube.com/watch?time_continue=1&v=C-wEZjEOhWc
+       Николай Алименков — Босиком по граблям Hibernate
+         https://www.youtube.com/watch?v=YzOTZTt-PR0
+       Hibernate. Основные принципы работы с сессиями и транзакциями
+         https://habr.com/post/271115/
+
+    Oracle database
+        https://habr.com/post/120003/
+    PostgreSQL
+        https://habr.com/post/340460/
+    Microsoft SQL
+        https://habr.com/post/315142/
+        https://habr.com/post/247373/
+    MySQL
+        https://habr.com/post/105954/
+    Redis
+        https://habr.com/post/178525/
+    MongoDB
+        https://www.tutorialspoint.com/mongodb/
+        https://metanit.com/nosql/mongodb/
+    MySQL и MongoDB — когда и что лучше использовать
+        https://habr.com/post/322532/
+    Neo4J
+        https://habr.com/post/219441/
+
+
+Архитектура приложений
+    Общая информация
+        How Does DNS Work?
+        https://dyn.com/blog/how-does-dns-work/
+        How a DNS Server (Domain Name System) works.
+        https://www.youtube.com/watch?v=mpQZVYPuDGU
+    Масштабирование приложений
+        Основы масштабирования
+        https://habr.com/post/15362/
+        Горизонтальное масштабирование. Что, зачем, когда и как?
+        https://habr.com/company/oleg-bunin/blog/319526/
+
+Reactive
+    Distributed & high-load systems
+    https://www.reactivemanifesto.org/
+
+
+Обработка информации
+    Apache Lucene/Solr
+    https://habr.com/post/277509/
+    Elasticsearch
+    https://habr.com/post/280488/
+
+Полезные библиотеки
+    Apache Commons
+    https://www.tutorialspoint.com/commons_collections/index.htm
+    Google GUAVA
+    https://habr.com/post/244347/
+    Jackson
+    https://habr.com/company/luxoft/blog/280782/
+    Mokito
+    https://otus.ru/nest/post/161/
+    JUnit
+    https://habr.com/post/337700/
+    Logstash
+    https://habr.com/post/165059/
+    Log4 & Logback & SLF4J
+    https://habr.com/post/113145/
+    http://www.quizful.net/post/log4j-quickstart
+    https://www.baeldung.com/logback
+    Flyway
+    https://habr.com/post/141354/
+    Swagger
+    https://swagger.io/tools/open-source/getting-started/
+
+VCS (Version Control System)
+    Apache Subversion (SVN)
+        https://www.tutorialspoint.com/svn/
+        https://habr.com/post/320704/
+    Microsoft Git
+        https://git-scm.com/book/ru/v2
+
+
+CI / CD
+TeamCity
+https://habr.com/company/skbkontur/blog/205402/
+https://confluence.jetbrains.com/display/TCD10/Getting+Started+with+TeamCity
+Jenkins
+http://habrahabr.net/thread/17599
+https://habr.com/company/selectel/blog/339390/
+
+
+
+Also
+    Digest
+    http://java.svlugovoy.com/references/
+    JavaScript Yakov Fain
+    https://www.youtube.com/watch?v=j0ycGQKqMT4
+
+
+    SCALA
+    https://twitter.github.io/scala_school/ru/

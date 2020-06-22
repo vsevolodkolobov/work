@@ -1,0 +1,45 @@
+This is one dude's advice.
+
+1. Spring Введение
+2. Spring изнутри. Этапы инициализации контекста
+3. Spring AOP
+4. Junit тестирование в контексте Spring
+5. Spring Boot Введение
+6. Spring boot конфигурация
+7. Spring boot custom starter
+8. Обзор технологий для работы с базами данных
+9. Standart Java JDBC в контексте спринга
+10. Spring JDBC
+11. Spring Data
+12. Основы ORM, JPA, Hibernate как провайдер JPA
+13. Транзакции, Spring Tx
+14. Spring Data JPA
+15. SQL и NoSQL базы данных
+16. Spring Data для подключения к нереляционным БД
+17. JPQL, Spring ORM, DAO на основе Spring ORM + JPA
+18. Spring Конфигурация Web приложения
+19. Введение в Spring MVC, Spring MVC на Spring Boot
+20. Spring MVC View (JSP, Freemarker, Thymeleaf)
+21. Spring WebFlux
+22. Reactive Stack
+23. Web Session scope
+24. Посмотрим на Spring Flow (обзорно)
+25. REST + Hateos
+26. Spring + Angular
+27. Reactive Framework
+28. Spring Batch
+29. Spring Integration_ Монолиты vs. Microservices
+30. Spring Integration_ Messages и Channels
+31. Spring Boot Actuator_ Монолиты vs. Microservices (Round 2), Must have в микросервисах
+32. Docker, оркестрация, облака, облачные хостинги
+33. Spring Cloud_ Config Server, Service Registry, интеграция в облака
+34. Spring Cloud Data Flow, Hystrix Circuit Breaker
+35. Обзор дополнительных технологий Spring, выбор архитектуры и технологий
+36. Spring Integration_ Endpoints и Flow Components
+37. SOAP, Spring WebServices и клиенты к ним
+38. Spring Security_ ACL
+
+
+
+
+
